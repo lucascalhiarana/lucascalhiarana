@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá eu sou o lucascalhiarana 👋
 
-<!--
-**lucascalhiarana/lucascalhiarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudandp desenvolvimento web em geral
+- 📫 Contate-me no e-mail: lucascalhiarana@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/lucascalhiarana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascalhiarana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascalhiarana&layout=compact&langs_count=7&theme=dark"/>
+</div>
